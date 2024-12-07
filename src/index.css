@@ -1,0 +1,27 @@
+:root {
+  --primary: #8B5DFF;
+  --secondary: #6A42C2;
+  --accent: #563A9C;
+  --text-light: #FFF7D1;
+  --text-dark: #2C2C2C;
+  --bg-light: #FFFFFF;
+  --bg-dark: #1a1a2e;
+  --shadow: rgba(106, 66, 194, 0.1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+}
+
+#root {
+  flex: 1;
+  display: flex;
+}
