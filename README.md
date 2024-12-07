@@ -26,8 +26,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recta-ai-chatbot.git
-   cd recta-ai-chatbot
+   git clone https://github.com/hasan4adnan/Reacta-AI
+   cd Reacta-AI
    ```
 
 2. Install dependencies:
