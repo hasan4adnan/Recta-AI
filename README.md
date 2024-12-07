@@ -2,7 +2,7 @@
 
 A modern and Basic, responsive AI chatbot built with React and powered by Google's Gemini AI. This project features a clean UI with dark mode support and real-time chat functionality.
 
-![Chatbot Screenshot](screenshot.png)
+<img width="1257" alt="Ekran Resmi 2024-12-07 16 24 31" src="https://github.com/user-attachments/assets/94f4b236-3a38-45ed-8aef-e7c8da082d3a">
 
 ## Features
 
