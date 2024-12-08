@@ -59,5 +59,7 @@ This project is licensed under the MIT License
 ## About the Developer
 
 Name: Hasan Adnan
+
 LinkedIn: [www.linkedin.com/in/hasan-adnan-6091292bb]
+
 Contact: hassanmoaid44@gmail.com
