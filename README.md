@@ -1,4 +1,4 @@
-## Recta AI - React Chatbot
+### Recta AI - React Chatbot
 
 A modern and Basic, responsive AI chatbot built with React and powered by Google's Gemini AI. This project features a clean UI with dark mode support and real-time chat functionality.
 
