@@ -187,6 +187,7 @@ function App() {
                             <button
                                 className="send-button"
                                 onClick={handleSendMessage}
+                                disabled={!inputMessage.trim() || isLoading}
                             >
                                 <i className="fas fa-paper-plane"></i>
                             </button>
